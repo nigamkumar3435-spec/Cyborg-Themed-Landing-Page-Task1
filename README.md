@@ -66,3 +66,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📜 License
 
 This project is created as Task 1 for the Techfest IIT Bombay.
+
+## 🙏 Acknowledgements
+
+- Thanks to **IIT Bombay** and the **Techfest Team** for providing this engaging task.
+- Inspiration drawn from futuristic, cyberpunk, and cyborg themes.
+- Special thanks to the open-source community for the fonts and icons used in this project.
